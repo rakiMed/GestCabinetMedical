@@ -1,0 +1,253 @@
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\Guna.UI.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\Guna.UI2.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.Accueil.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprCertificatMedical.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenANATOMO.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenENDO.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenRD.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormLogin.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormAdministrareur.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormAjoutAntecedent.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormAntecedent.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherConsultation.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherPatient.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormConsultation.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormDemmandeExamen.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionExamenBiologiqueEtRadiologique.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionListeAttente.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionMedicament.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionPatients.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionUtilisateurs.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormHistory.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenBG.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttente.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttentePourMedcin.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormMedcin.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormMessenger.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormNotification.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormOrdonance.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientParRefConsult.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientPourMecin.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionMedicaments.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionViewr.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormSecretaire.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormUpdateMaladie.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.Properties.Resources.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.GenerateResource.Cache
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.exe
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.pdb
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolution.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolutionNextControls.resources
+C:\Users\Raki\Desktop\app cabinet 22_10_2020\Cabinet\Cabinet\obj\Debug\Cabinet.AnimatedLogin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.exe
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.pdb
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Guna.UI.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Guna.UI2.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.Accueil.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.AnimatedLogin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolution.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolutionNextControls.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprCertificatMedical.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenANATOMO.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenENDO.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenRD.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormLogin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAdministrareur.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAjoutAntecedent.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAntecedent.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherConsultation.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherPatient.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormConsultation.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormDemmandeExamen.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionExamenBiologiqueEtRadiologique.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionListeAttente.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionMedicament.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionPatients.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionUtilisateurs.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormHistory.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenBG.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttente.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttentePourMedcin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormMedcin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormMessenger.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormNotification.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormOrdonance.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientParRefConsult.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientPourMecin.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionMedicaments.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionViewr.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormSecretaire.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormUpdateMaladie.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.Properties.Resources.resources
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.GenerateResource.Cache
+C:\Users\Raki\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionRoles.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.exe
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.pdb
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.Accueil.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.AnimatedLogin.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolution.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormEvolutionNextControls.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionRoles.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprCertificatMedical.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenANATOMO.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenENDO.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenRD.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormLogin.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAdministrareur.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAjoutAntecedent.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormAntecedent.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherConsultation.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormChercherPatient.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormConsultation.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormDemmandeExamen.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionExamenBiologiqueEtRadiologique.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionListeAttente.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionMedicament.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionPatients.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormGestionUtilisateurs.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormHistory.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormImprExamenBG.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttente.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormListeAttentePourMedcin.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormMedcin.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormMessenger.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormNotification.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormOrdonance.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientParRefConsult.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPatientPourMecin.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionMedicaments.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormPrescriptionViewr.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormSecretaire.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.FormUpdateMaladie.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.Properties.Resources.resources
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet\Cabinet\obj\Debug\Cabinet.csproj.GenerateResource.Cache
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.exe
+C:\Users\SAFAE\Desktop\app cabinet Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.pdb
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.exe
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.pdb
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\bin\Debug\Cabinet.exe
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\bin\Debug\Cabinet.pdb
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\bin\Debug\Interop.AcroPDFLib.dll
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\ResolveAssemblyReference.cache
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.Accueil.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.AnimatedLogin.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormEvolution.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormEvolutionNextControls.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionRoles.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprCertificatMedical.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenANATOMO.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenENDO.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenRD.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormLogin.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAdministrareur.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAjoutAntecedent.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAntecedent.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormChercherConsultation.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormChercherPatient.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormConsultation.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormDemmandeExamen.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionExamenBiologiqueEtRadiologique.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionListeAttente.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionMedicament.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionPatients.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionUtilisateurs.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormHistory.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenBG.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormListeAttente.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormListeAttentePourMedcin.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormMedcin.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormMessenger.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormNotification.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormOrdonance.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPatientParRefConsult.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPatientPourMecin.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPrescriptionMedicaments.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPrescriptionViewr.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormSecretaire.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormUpdateMaladie.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.Properties.Resources.resources
+E:\APPS DONE\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.GenerateResource.Cache
+E:\APPS DONE\APP CABINET\Cabinet Version serveur Local\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Cabinet Version serveur Local\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+E:\APPS DONE\APP CABINET\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.exe
+E:\APPS DONE\APP CABINET\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.pdb
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Interop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.ResolveComReference.cache
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.exe
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.pdb
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\bin\Debug\Cabinet.exe
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\bin\Debug\Cabinet.pdb
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\bin\Debug\Interop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\ResolveAssemblyReference.cache
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.Accueil.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.AnimatedLogin.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormEvolution.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormEvolutionNextControls.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionRoles.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprCertificatMedical.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenANATOMO.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenENDO.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenRD.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormLogin.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAdministrareur.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAjoutAntecedent.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormAntecedent.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormChercherConsultation.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormChercherPatient.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormConsultation.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormDemmandeExamen.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionExamenBiologiqueEtRadiologique.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionListeAttente.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionMedicament.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionPatients.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormGestionUtilisateurs.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormHistory.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormImprExamenBG.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormListeAttente.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormListeAttentePourMedcin.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormMedcin.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormMessenger.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormNotification.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormOrdonance.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPatientParRefConsult.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPatientPourMecin.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPrescriptionMedicaments.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormPrescriptionViewr.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormSecretaire.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.FormUpdateMaladie.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.Properties.Resources.resources
+E:\APPS DONE\APP CABINET\Officiel\Cabinet Version serveur Local\Cabinet\obj\Debug\Cabinet.csproj.GenerateResource.Cache
